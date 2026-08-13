@@ -1,201 +1,147 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Om Bankar banner"/>
+# Hi, I'm Om Bankar 👋
 
-<br/>
+### Final-Year AI & Data Science Engineer | Building Practical ML, GenAI, RAG & LLM Applications
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineering+Student;Building+RAG+%2B+LLM+Applications;LangChain+%C2%B7+FAISS+%C2%B7+HuggingFace+%C2%B7+Groq;Open+to+AI+Engineer+%2F+GenAI+Roles" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://github.com/Ombankar1111-gi.png" width="130" height="130" style="border-radius:50%;" alt="Om Bankar"/>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ombankar1111--gi-181717?style=for-the-badge&logo=github)](https://github.com/Ombankar1111-gi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Bankar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-bankar-811798302)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ombankar__0007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ombankar_0007/)
-[![Gmail](https://img.shields.io/badge/Email-ombankar1111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ombankar1111@gmail.com)
-
-<br/>
-
-🟢 **Open to work** — AI Engineer · GenAI Engineer · LLM Engineer · Machine Learning roles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-bankar-811798302/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ombankar1111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ombankar1111-gi)
 
 </div>
 
-<br/>
+---
 
-## 👋 About Me
+## About Me
 
-I'm a third-year **B.E. student in Artificial Intelligence & Data Science** at SNJB's Late Sau. K.B.J. College of Engineering, Chandwad, Nashik (CGPA **8.90/10**). I build **Generative AI and LLM-powered applications** using Retrieval-Augmented Generation (RAG) pipelines, LangChain, FAISS, HuggingFace, and Groq LLMs — and I recently completed an internship where I shipped these kinds of systems end-to-end.
+I'm a final-year **B.E. Artificial Intelligence & Data Science** student (Class of 2027, CGPA: 9.29) at SNJB's Late Sau Kantabai Bhavarlalji Jain College of Engineering, based in Nashik, Maharashtra, India.
 
-- 🔭 **Currently building:** RAG-based AI applications and LLM pipelines (data ingestion → embeddings → retrieval → generation → deployment)
-- 🌱 **Currently learning:** Data Structures & Algorithms, and going deeper into agentic AI workflows
-- 🧠 **Areas of interest:** Generative AI · Large Language Models · Machine Learning · NLP · AI Engineering
-- 🎓 **Education:** B.E. in AI & Data Science, 2023 – 2027
-- 💼 **Past internship:** LLM Developer Intern @ LazyDeveloper TechEd Pvt. Ltd. (Aug – Dec 2025)
-- ⚡ **Fun fact:** I've deployed a live RAG chatbot that can answer questions straight out of any PDF you throw at it
+I build practical, deployed applications across **Machine Learning, Generative AI, RAG pipelines, and LLM-powered systems**, backed by hands-on internship experience as an LLM Developer. I'm currently looking for opportunities as an **AI / ML Engineer, GenAI / LLM Engineer, or Python / Software Engineer**, where I can apply and grow these skills on real-world problems.
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**
+**Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Data & Machine Learning**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
 
-**AI · Machine Learning · Generative AI**
+**Generative AI / LLM**
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-00758F?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6366F1?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-A78BFA?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-10B981?style=for-the-badge)
+**Backend / App Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Generative AI / LLM Frameworks**
+**Other Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-4B8BBE?style=flat)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-FF6600?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-38BDF8?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-14B8A6?style=for-the-badge)
+---
 
-**Frameworks & Tools**
+## Featured Projects
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🤖 AI PDF Chatbot (RAG)
+AI-powered PDF chatbot using Retrieval-Augmented Generation that extracts information from uploaded PDF documents and answers user questions through semantic retrieval and an LLM.
 
-**Libraries**
+**Tech:** Python, LangChain, FAISS, HuggingFace Embeddings, Groq LLM, Streamlit, RAG
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge)
+[🚀 Live Demo](https://ai-pdf-chatbot-rag-w2tmc2qdjbxlfwktvcmqre.streamlit.app/) · [💻 GitHub](https://github.com/Ombankar1111-gi/ai-pdf-chatbot-rag)
 
-<br/>
+---
 
-## 📊 GitHub Stats
+### 🎥 AI Video Assistant
+AI-powered meeting/video intelligence application that transcribes audio, generates summaries, extracts action items and key decisions, and enables RAG-based chat over the transcript.
+
+**Tech:** Whisper, LangChain, ChromaDB, Mistral AI, Python, Streamlit
+
+[🚀 Live Demo](https://ai-video-assistant-wvlx.onrender.com) · [💻 GitHub](https://github.com/Ombankar1111-gi/ai-video-assistant)
+
+---
+
+### 📈 Customer Churn Prediction System
+End-to-end ML system that predicts telecom customer churn probability and provides risk-based retention recommendations. Covers data cleaning, EDA, and comparison across Logistic Regression, Random Forest, and Gradient Boosting (Random Forest selected — **ROC-AUC 0.844, Accuracy 0.762**). Supports single and batch CSV scoring, deployed on Render.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Random Forest, Streamlit
+
+[🚀 Live Demo](https://customer-churn-prediction-imoq.onrender.com/) · [💻 GitHub](https://github.com/Ombankar1111-gi/customer-churn-prediction)
+
+---
+
+### 🏠 House Price Prediction System
+Machine learning application that predicts median house value using the California housing dataset, comparing Linear Regression and Random Forest models with an interactive Streamlit dashboard, deployed on Render.
+
+**Tech:** Python, Pandas, Scikit-learn, Streamlit, Machine Learning, Random Forest / Linear Regression
+
+[🚀 Live Demo](https://house-price-prediction-5mex.onrender.com/) · [💻 GitHub](https://github.com/Ombankar1111-gi/house-price-prediction)
+
+---
+
+### 🧠 Mental Health Score Predictor
+End-to-end machine learning web application that predicts a mental health score from lifestyle and social media usage inputs, served via a FastAPI backend with a responsive web UI.
+
+**Tech:** Python, Pandas, Scikit-learn, FastAPI, HTML, CSS, JavaScript
+
+[🚀 Live Demo](https://mental-health-score-predictor-7dec.onrender.com) · [💻 GitHub](https://github.com/Ombankar1111-gi/mental-health-score-predictor)
+
+---
+
+### 🧮 DSA Journey With Python
+A Python-based Data Structures and Algorithms practice repository focused on problem solving and interview preparation.
+
+[💻 GitHub](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python)
+
+---
+
+## Internship Experience
+
+**LLM Developer Intern** — LazyDeveloper TechEd Pvt. Ltd.
+
+---
+
+## Education
+
+**B.E. Artificial Intelligence & Data Science**
+SNJB's Late Sau Kantabai Bhavarlalji Jain College of Engineering
+Final Year Student · Graduating 2027 · CGPA: 9.29
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ombankar1111-gi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ombankar1111-gi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombankar1111-gi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=Ombankar1111-gi&theme=tokyonight&no-frame=true&row=2&column=3" alt="Trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ombankar1111-gi&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ombankar1111-gi&show_icons=true&theme=default&hide_title=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ombankar1111-gi&layout=compact)
 
 </div>
 
-> 🐍 Live contribution snake and 📈 metrics card auto-update daily via GitHub Actions — see `/assets` once the workflows run.
+---
 
-<br/>
+## Connect With Me
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI PDF Chatbot (RAG Architecture)
-
-An AI-powered chatbot that answers questions from uploaded PDF documents in real time using a full Retrieval-Augmented Generation pipeline.
-
-**Highlights**
-- PDF text extraction → chunking → embedding pipeline
-- FAISS vector database for similarity search over document embeddings
-- Groq LLM integrated via LangChain for context-aware answers
-- Deployed live on Streamlit Cloud
-
-**Tech:** `Python` `LangChain` `FAISS` `HuggingFace Embeddings` `Groq LLM` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ombankar1111-gi/ai-pdf-chatbot-rag)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-pdf-chatbot-rag-w2tmc2qdjbxlfwktvcmqre.streamlit.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 DSA Journey With Python
-
-A curated, growing repository of Data Structures & Algorithms solutions in Python — focused on problem-solving, optimization, and interview preparation.
-
-**Highlights**
-- Organized by topic: Arrays, Hash Tables, Math, Two Pointers, Strings
-- Clean, well-commented solutions
-- Ongoing DSA practice log
-
-**Tech:** `Python` `Data Structures` `Algorithms`
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ombankar1111-gi/DSA-Journey-With-Python)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💼 Experience
-
-```
-Aug 2025 ─┬─ LLM Developer Intern — LazyDeveloper TechEd Pvt. Ltd.
-          │  • Built LLM-powered applications and AI-driven workflows for real-world use cases
-          │  • Designed RAG pipelines using LangChain and vector databases
-          │  • Integrated HuggingFace models and Groq LLM APIs into production AI systems
-          │  • Improved response quality through prompt engineering and evaluation
-Dec 2025 ─┴─ Participated in development, testing, debugging & optimization of AI applications
-```
-
-<br/>
-
-## 🏆 Certifications
-
-| Certification | Issuer |
-|---|---|
-| 🎖️ Salesforce Agentforce Specialist | Salesforce Trailhead |
-| 🎖️ GenAI Powered Data Analytics Job Simulation | Tata Group (via Forage) |
-| 🎖️ Machine Learning Using Python | Simplilearn SkillUp |
-
-<br/>
-
-## 🎓 Leadership & Activities
-
-- Elected **Student Member Representative** through a college-wide student election
-- Served as **Student Member** of the AI & DS Department Community
-- Active learner and contributor across AI, ML, Generative AI, and software development initiatives
-
-<br/>
-
-## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-om--bankar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-bankar-811798302/)
+[![Email](https://img.shields.io/badge/Email-ombankar1111%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ombankar1111@gmail.com)
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ombankar1111-gi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-bankar-811798302)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ombankar_0007/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ombankar1111@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ombankar1111-gi&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/logo.svg" width="60" alt="logo"/>
-<br/>
-<sub>Thanks for stopping by — always happy to talk AI, LLMs, and RAG systems 🤝</sub>
+<sub>Open to AI / ML / GenAI / LLM / Python & Software Engineering opportunities</sub>
 </div>
